@@ -1,0 +1,10 @@
+<!-- Texto em negrito e italico -->
+<html>
+    <head> 
+        <titlle> texto em negrito </titlle>
+    </head>
+
+    <body bgcolor="black"  text="white">
+        <i> pagina com fundo preto e texto na cor branca </i>
+    </body>
+</html>
