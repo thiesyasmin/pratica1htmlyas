@@ -1,10 +1,62 @@
 <!-- Texto em negrito e italico -->
 <html>
     <head> 
-        <titlle> texto em negrito </titlle>
+        <titlle> Yasmin </titlle>
     </head>
 
     <body bgcolor="black"  text="white">
-        <i> pagina com fundo preto e texto na cor branca </i>
+        <i> Yasmin </i>
     </body>
 </html>
+
+<!-- Texto em small -->
+<html>
+<head>
+<title>Uso do elemento small</title>
+</head>
+<body style="background-color: rgb(255, 14, 14)">
+<p>Yasmin nasceu na <small>grande cidade de Curitiba</small> no
+Parana. Aos 16 anos começou <small>o menor aprendiz</small> e começou a
+trabalhar com a amiga em uma loja <small>de pintura.</small></p>
+</body>
+</html>
+
+<html>
+    <body>
+        <h1>Yasmin</h1>
+        <h2>Yasmin</h2>
+        <h3>Yasmin</h3>
+        <h4>Yasmin</h4>
+        <h6>Yasmin</h6>
+    </body>
+</html>
+<html> 
+    <BODY> 
+<B>Yasmin</B>
+<I>Yasmin</I>
+<U>Yasmin</U>
+<SUB>Yasmin</SUB>
+<SUP>Yasmin</SUP>
+</BODY>
+</html>
+
+<OL>
+    <LI>Matematica</LI>
+    <LI>Fisica</LI>
+    <LI>Quimica</LI>
+    <LI>Portugues</LI>
+</OL>
+
+<UL>
+    <LI>Yasmin</LI>
+    <LI>Matematica</LI>
+    <LI>Quimica</LI>
+    <LI>Fisica</LI>
+</UL>
+
+<DL>
+<DT>Yasmin</DT>
+<DD>eu sou negra</DD>
+<DT>alta</DT>
+<DD>magra</DD>
+</DL>
